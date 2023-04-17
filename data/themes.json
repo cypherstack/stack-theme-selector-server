@@ -1,0 +1,20 @@
+{
+    "themes": [
+        {
+            "name": "Dark",
+            "id": "dark",
+            "description": "Dark",
+            "primary_color": "0xFF2A2D34",
+            "secondary_color": "0xFF4C86E9",
+            "tertiary_color": "0xFFFFFFFF",
+            "background": "0xFF2A2D34",
+            "overlay": "0xFF111215",
+            "accentColorBlue": "0xFF4C86E9",
+            "accentColorGreen": "0xFF4CC0A0",
+            "accentColorYellow": "0xFFF7D65D",
+            "accentColorRed": "0xFFD34E50",
+            "accentColorOrange": "0xFFFEA68D",
+            "accentColorDark": "0xFFF3F3F3"
+        }
+    ]
+}
