@@ -1,6 +1,6 @@
 {
-    "themes": [
-        {
+    "themes": {
+        "dark" : {
             "name": "Dark",
             "id": "dark",
             "description": "Dark",
@@ -16,5 +16,5 @@
             "accentColorOrange": "0xFFFEA68D",
             "accentColorDark": "0xFFF3F3F3"
         }
-    ]
+    }
 }
