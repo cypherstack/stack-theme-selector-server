@@ -5,35 +5,35 @@
             "id": "chan",
             "sha256": "e2e5b96109fcee9ebccb6be4671a0751cedcb7b481a38860f1b36751dc557d16",
             "size": "61.8 MB",
-            "previewImageUrl": ""
+            "previewImageUrl": "https://themes.stackwallet.com/previews/chan-theme.png"
         },
         {
             "name": "Chan Dark",
             "id": "chan_dark",
             "sha256": "5568e4d545eb51a9b474b497a7d50a610b5b5cef904e318bf9b683a6666d1d77",
             "size": "61.8 MB",
-            "previewImageUrl": ""
+            "previewImageUrl": "https://themes.stackwallet.com/previews/darkchans-theme.png"
         },
         {
             "name": "Dark",
             "id": "dark",
             "sha256": "12699563c238b04af9576ffdf6c3e57587fa697faf860f3792fcecd45d3178ac",
             "size": "475.8 kB",
-            "previewImageUrl": ""
+            "previewImageUrl": "https://themes.stackwallet.com/previews/dark-theme.svg"
         },
         {
             "name": "Forest",
             "id": "forest",
             "sha256": "32394e8b7aa0b4c4f59bf01966433d9bb8c52992c52f9952889416444234dc61",
             "size": "762.7 kB",
-            "previewImageUrl": ""
+            "previewImageUrl": "https://themes.stackwallet.com/previews/forest-theme.svg"
         },
         {
             "name": "Fruit Sorbet",
             "id": "fruit_sorbet",
             "sha256": "ad4286a9abbaa72197447ececf8b00196680bf15876c289d2ef5256920e6f3f9",
             "size": "582.9 kB",
-            "previewImageUrl": ""
+            "previewImageUrl": "https://themes.stackwallet.com/previews/sorbet-theme.svg"
         },
         {
             "name": "Light",
@@ -47,21 +47,21 @@
             "id": "ocean_breeze",
             "sha256": "a61c0ced9d06962ba8e4f5b183c77dfb8dd6911150f7505a87effd3fec91fc5f",
             "size": "2.8 MB",
-            "previewImageUrl": ""
+            "previewImageUrl": "https://themes.stackwallet.com/previews/beach-theme.svg"
         },
         {
             "name": "OLED Black",
             "id": "oled_black",
             "sha256": "c0029bc910e1283132b879a8518c6d10158242a5da790a8adc6f7385c78ffbfd",
             "size": "476.4 kB",
-            "previewImageUrl": ""
+            "previewImageUrl": "https://themes.stackwallet.com/previews/orangedark-theme.svg"
         },
         {
             "name": "Orange",
             "id": "orange",
             "sha256": "a102538771ea60cde4473c888151e812eb0bb13719ab328425812a56eab3654c",
             "size": "107.6 kB",
-            "previewImageUrl": ""
+            "previewImageUrl": "https://themes.stackwallet.com/previews/orange-theme.svg"
         }
     ]
 }

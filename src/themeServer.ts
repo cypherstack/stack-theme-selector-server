@@ -8,6 +8,8 @@ function startServer(port : number) {
     
     app.use(cors());
 
+    app.use("/previews", express.static("data/previews"));
+
     var themeListReqCounter = 0;
     app.get("/themes", (req : any, res : any) => {
         themeListReqCounter++;
