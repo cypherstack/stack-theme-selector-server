@@ -33,7 +33,7 @@
             "id": "fruit_sorbet",
             "sha256": "053b434ab6ba79d2e113aa484eb73e0bc2439c22a62e56d8edf25dd5edc2970c",
             "size": "582.9 kB",
-            "previewImageUrl": "https://themes.stackwallet.com/previews/sorbet-theme.png"
+            "previewImageUrl": "https://themes.stackwallet.com/previews/fruit-sorbet.png"
         },
         {
             "name": "Light",
@@ -47,14 +47,14 @@
             "id": "ocean_breeze",
             "sha256": "f9e64cf9855d4dd22201b7686ffc68936b500b034527f0d0006f1dbc8f5a6472",
             "size": "2.8 MB",
-            "previewImageUrl": "https://themes.stackwallet.com/previews/beach-theme.png"
+            "previewImageUrl": "https://themes.stackwallet.com/previews/ocean-breeze.png"
         },
         {
             "name": "OLED Black",
             "id": "oled_black",
             "sha256": "d6201c3374ca52a0ffeddb5425b5b2f3d6c1c23efe9da17b342061b212fdb0bf",
             "size": "476.4 kB",
-            "previewImageUrl": "https://themes.stackwallet.com/previews/orangedark-theme.png"
+            "previewImageUrl": "https://themes.stackwallet.com/previews/orange-dark-theme.png"
         },
         {
             "name": "Orange",
