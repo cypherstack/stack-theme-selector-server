@@ -8,17 +8,19 @@ function startServer(port : number) {
     
     app.use(cors());
 
+    app.use("/previews", express.static("data/previews"));
+
     var themeListReqCounter = 0;
-    app.get("/themelist", (req : any, res : any) => {
+    app.get("/themes", (req : any, res : any) => {
         themeListReqCounter++;
-        console.log("Got request on /themelist, request number " + themeListReqCounter)
+        console.log("Got request on /themes, request number " + themeListReqCounter)
         res.send(getThemeList());
     });
 
     var themeDetailsReqCounter = 0;
-    app.get("/themedetails/:id", (req : any, res : any) => {
+    app.get("/theme/:id", (req : any, res : any) => {
         themeDetailsReqCounter++;
-        console.log("Got request on /themedetails/" + req.params.id + ", request number " + themeDetailsReqCounter)
+        console.log("Got request on /theme/" + req.params.id + ", request number " + themeDetailsReqCounter)
         res.send(getThemeDetails(req.params.id));
     });
 
