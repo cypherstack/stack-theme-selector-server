@@ -31,8 +31,8 @@
         {
             "name": "Fruit Sorbet",
             "id": "fruit_sorbet",
-            "sha256": "765bf71fc6ba31d0ee1b71d8ca16f64e37c8effdb774e94e3e186cad42d0d52f",
-            "size": "~693.7 kB",
+            "sha256": "329eae97cf8806cbd213f9c9552e487481648599d0e3368fba2daef28a5b4dd5",
+            "size": "~697.6 kB",
             "previewImageUrl": "https://themes.stackwallet.com/previews/fruit-sorbet.png"
         },
         {
@@ -59,7 +59,7 @@
         {
             "name": "Orange",
             "id": "orange",
-            "sha256": "269fef84bbcbb10aae57c55376acfa8ca3b631ddf857afb4e22ea9edd123b1a2",
+            "sha256": "3e781564321c5b3035bffda5d49e03c7b56280a640aef7ec6bf6756e5931ba78",
             "size": "~169.0 kB",
             "previewImageUrl": "https://themes.stackwallet.com/previews/orange-theme.png"
         }
