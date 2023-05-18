@@ -59,8 +59,9 @@
         {
             "name": "Orange",
             "id": "orange",
-            "sha256": "bc59b71795e44f4eb199417224bf48ed8dc6ec50c3d55d0a864e2515f8fffa74",
-            "size": "~171.8 kB",
+            "version": 2,
+            "sha256": "f56ebe4368fcb0cb2a4f88cb623cab8f59dee60fbebc22ab4fab67b1c0cdf1ec",
+            "size": "~171.1 kB",
             "previewImageUrl": "https://themes.stackwallet.com/previews/orange-theme.png"
         }
     ]
