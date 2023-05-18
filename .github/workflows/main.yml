@@ -14,6 +14,7 @@ jobs:
       
       - name: Run verify script
         run: |
+          cd scripts
           bash scripts/verify.sh
           if [ $? -eq 1 ]; then
             exit 1
