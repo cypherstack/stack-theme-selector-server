@@ -4,8 +4,8 @@
             "name": "Chan",
             "id": "chan",
             "version": 3,
-            "sha256": "0972833d5493ea7e5d1238e6b69e68cad12863b2550325806e9aa8b921353c23",
-            "size": "~77 MB",
+            "sha256": "5909bf757670432e274cd068ebdee334e528bbb6f850452d6937ff1d18fa1a08",
+            "size": "~79 MB",
             "previewImageUrl": "https://themes.stackwallet.com/previews/chan-theme.png"
         },
         {
@@ -20,8 +20,8 @@
             "name": "Dark Chan",
             "id": "dark_chan",
             "version": 3,
-            "sha256": "594b8d4e0cfbbb24b80438d5d6d6239e28cd39dfdfcaecee6a95453805e3b8bb",
-            "size": "~77 MB",
+            "sha256": "e8c6d24d9fb3ea6345c4b82145881a6caa98e5bb46da1057d797ac737eb8f1e8",
+            "size": "~79 MB",
             "previewImageUrl": "https://themes.stackwallet.com/previews/darkchans-theme.png"
         },
         {
@@ -36,7 +36,7 @@
             "name": "Fruit Sorbet",
             "id": "fruit_sorbet",
             "version": 3,
-            "sha256": "524ac32c756df7248176e274fc6d91d3a1e727c20e7827c77011260a91ed8c2d",
+            "sha256": "ce04b07aa71f7e01575e3a0295aa2e59d017f5dc034c957c12ed8081e83e3fe9",
             "size": "~747 kB",
             "previewImageUrl": "https://themes.stackwallet.com/previews/fruit-sorbet.png"
         },
