@@ -44,7 +44,7 @@
         {
             "name": "Light",
             "id": "light",
-            "version": 5,
+            "version": 6,
             "sha256": "adeb3ce7885370acbc46a2f039c5e5645bf3055e3cf0bee4e0401f474246aa33",
             "size": "~607 kB",
             "previewImageUrl": ""
