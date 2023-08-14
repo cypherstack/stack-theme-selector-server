@@ -3,72 +3,73 @@
         {
             "name": "Chan",
             "id": "chan",
-            "version": 8,
-            "sha256": "dcdba5672cd75b4f23a7386bb9e9521736b621d57af8adcab1a4b6439efbe95f",
+            "version": 9,
+            "sha256": "4c39ee8ed7078eed358bbc1d5e4a85489a99cdca579b2c35d95f8ed1563172bf",
             "size": "~88 MB",
             "previewImageUrl": "https://themes.stackwallet.com/previews/chan-theme.png"
         },
         {
             "name": "Dark",
             "id": "dark",
-            "version": 4,
-            "sha256": "30a3e5e6c4b3656430dfc2ad0f1e3cec4d15c3332331f2b21253629a4d377532",
+            "version": 5,
+            "sha256": "a00a8642cf02c631bc4f24947c2345ab45849bb0275bcdf57fb8cd055a5df37a",
             "size": "~660 kB",
             "previewImageUrl": "https://themes.stackwallet.com/previews/dark-theme.png"
         },
         {
             "name": "Dark Chan",
             "id": "dark_chan",
-            "version": 8,
-            "sha256": "9a489cbd927e590e5613ffeb413f2b25551c712505fc1e9012c420be4966b3f7",
+            "version": 9,
+            "sha256": "da060732bfe60f3279ca1b77d74cdb4f5c7cfc036617bd808c50c7b1f70c8a8c",
             "size": "~88 MB",
             "previewImageUrl": "https://themes.stackwallet.com/previews/darkchans-theme.png"
         },
         {
             "name": "Forest",
             "id": "forest",
-            "version": 4,
-            "sha256": "ef78068a287176a6e294a881d14e2b5eedf04211c593561abb196a371cf615c0",
+            "version": 5,
+            "sha256": "fcb44f941734a83402fc996b4ae3f3559cae2b2dd3a819835ba72a6c8d8ccc2f",
             "size": "~980 kB",
             "previewImageUrl": "https://themes.stackwallet.com/previews/forest-theme.png"
         },
         {
             "name": "Fruit Sorbet",
             "id": "fruit_sorbet",
-            "version": 4,
-            "sha256": "49fcd55d8263ad65ccee8cd4ef787f5f55f8abe76e053ceebd2f38675fda38f8",
+            "version": 5,
+            "sha256": "db015a964e2edda719e7da6d2c902ff0ea089be8fc4f18f1fbdf3a3eef5f0e39",
+
             "size": "~760 kB",
             "previewImageUrl": "https://themes.stackwallet.com/previews/fruit-sorbet.png"
         },
         {
             "name": "Light",
             "id": "light",
-            "version": 4,
-            "sha256": "e8f0573eeaf801bfdd7dca7cd4ec9271b4f213b3031fe1aa4ad85eb5df155fdb",
+            "version": 5,
+            "sha256": "adeb3ce7885370acbc46a2f039c5e5645bf3055e3cf0bee4e0401f474246aa33",
             "size": "~607 kB",
             "previewImageUrl": ""
         },
         {
             "name": "Ocean Breeze",
             "id": "ocean_breeze",
-            "version": 4,
-            "sha256": "7c416b6529d7abd8092fe9ef6209bff9e47068e1840b41842cd3b1127e8e9864",
+            "version": 5,
+            "sha256": "6dbf4f2438376a0ab4eb9cf50d63e17afb2749dfd10cbdffaa55604c9eb1645a",
             "size": "~3 MB",
             "previewImageUrl": "https://themes.stackwallet.com/previews/ocean-breeze.png"
         },
         {
             "name": "OLED Black",
             "id": "oled_black",
-            "version": 4,
-            "sha256": "abe55f86906c2e8b43f463abbf18c5c27a716c334e5072b4ba183bb6e623ee22",
+            "version": 5,
+            "sha256": "4ec9a0032eab4b953b46946a99d9cf599dd98f160ea43320470a4c8f4fcaec3e",
             "size": "~670 kB",
             "previewImageUrl": "https://themes.stackwallet.com/previews/orange-dark-theme.png"
         },
         {
             "name": "Orange",
             "id": "orange",
-            "version": 4,
-            "sha256": "3e62321874d784b8ad4e68b79244697eb003ee258bea118d9b4972f98f62baea",
+            "version": 5,
+            "sha256": "e9cd48df32e6523a99f220c28ddadda5f8a75102e5f9aa3d824b26288d7447f6",
             "size": "~180 kB",
             "previewImageUrl": "https://themes.stackwallet.com/previews/orange-theme.png"
         }
