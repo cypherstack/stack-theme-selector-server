@@ -3,9 +3,9 @@
         {
             "name": "Chan",
             "id": "chan",
-            "version": 9,
-            "sha256": "4c39ee8ed7078eed358bbc1d5e4a85489a99cdca579b2c35d95f8ed1563172bf",
-            "size": "~88 MB",
+            "version": 10,
+            "sha256": "7924e0b49534345a620d830051c24054e4d89f1c9f15d11944e0fe90de280c62",
+            "size": "~95 MB",
             "previewImageUrl": "https://themes.stackwallet.com/previews/chan-theme.png"
         },
         {
@@ -19,9 +19,9 @@
         {
             "name": "Dark Chan",
             "id": "dark_chan",
-            "version": 9,
-            "sha256": "da060732bfe60f3279ca1b77d74cdb4f5c7cfc036617bd808c50c7b1f70c8a8c",
-            "size": "~88 MB",
+            "version": 10,
+            "sha256": "cf929444e6501ede9df0229f7d4dfd2bac15dd4a7ad14916a6e5f06d37f90db2",
+            "size": "~95 MB",
             "previewImageUrl": "https://themes.stackwallet.com/previews/darkchans-theme.png"
         },
         {
